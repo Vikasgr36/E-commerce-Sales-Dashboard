@@ -19,7 +19,7 @@ Removed null values and duplicates
 Corrected spelling errors
 Ensured proper data types were assigned
 Added a column for Average Order Value using DAX queries
-🗝 Key Performance Indicators (KPIs):
+ Key Performance Indicators (KPIs):
 Several KPIs were identified, leading to the creation of visualizations in the dashboard, including:
 
 Total Profit
