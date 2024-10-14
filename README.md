@@ -5,12 +5,14 @@ Purchase frequency
 Average order value
 Product performance
 Identification of best-selling and underperforming products
- Data Source:
+
+
+Data Source:
 The analysis was based on two CSV files containing order details and customer information. The dataset included:
 
 15 columns
 Approximately 2,000 rows of data
- Data Processing and Cleaning:
+Data Processing and Cleaning:
 The data underwent thorough cleaning to ensure accuracy and usability:
 
 Removed null values and duplicates
@@ -25,10 +27,10 @@ Total Amount
 Total Quantity
 Total Average Order Value
 
- Charts and Insights:
+
+Charts and Insights:
 
 Stacked Column Chart:
-
 Displays total amounts by state and total profits by sub-category.
 Key Insight: Maharashtra had the highest orders, followed by Madhya Pradesh.
 Stacked Bar Chart:
